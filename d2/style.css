@@ -1,0 +1,67 @@
+*{
+ margin: 0px;  
+ padding: 0px; 
+ box-sizing: border-box;
+}
+nav{
+    background-color: greenyellow;
+    height: 100px;
+    width: 500px;
+}
+.boite1{
+    width: 500px;
+    height: 380px;
+    display: inline-block;
+    margin-top: 20px;
+    display: flex;
+    gap: 3px;
+    
+}
+footer{
+    background-color: greenyellow;
+    height: 100px;
+    width: 500px;
+}
+h1{
+    text-decoration: none;
+    text-align: center;
+}
+.one{
+    width: 250px;
+    height: 350px;
+    background-color: brown;
+    display: inline-block;
+}
+.two{
+    width: 250px;
+    height: 350px;
+    float: left;
+    background-color: palevioletred;
+    
+}
+img{
+    border-radius: 600px;
+    display: inline-block;
+    display: block;
+ }
+ p{
+    text-decoration: none;
+    text-align: center;
+ }
+.deuxieme{
+    background-color: indianred;
+    width: 500px;
+    float: right;
+    margin-top: -600px;
+}
+.bonjour{
+    width: 500px;
+    height: 380px;
+    display: inline-block;
+    margin-top: 20px;
+    display: flex;
+    gap: 3px;
+    font-size: 50px;
+    text-align: center;
+}
+
